@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </br>
 
 </div>
-Hey! I'm <b>Manuel David Alfaro</b>, a Front End Developer and self-taught programmer from Chile.<br><br>
+Hey! I'm <b>Manuel David Alfaro</b> Web Developer from Chile.<br><br>
 
 
 - 💪 I feel very confident to work on every JavaScript framework
