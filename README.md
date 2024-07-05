@@ -20,5 +20,5 @@ Hey! I'm <b>Manuel David Alfaro</b>, a Web Developer from Chile.<br><br>
   <img title="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" />
   <img title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
   <img title="Azure" width="25px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Azure"/>
-  <img title="Amazon Web Services"  width="25px" src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" />
+  <img title="AWS"  width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" />
 </p>
