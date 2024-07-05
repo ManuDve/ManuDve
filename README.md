@@ -1,6 +1,7 @@
 Hey! I'm <b>Manuel David Alfaro</b>, a Software Developer from Chile.<br><br>
 
-- 🌎 I speak Spanish, English (C2) and basic Portuguese and Russian!
+- 🌎 I speak Spanish, English (C2) and Portuguese!
+- 📎 Feel free to check my website: [https://www.manudavid.cl](https://www.manudavid.cl)
 - 📫 You can contact me at m.alfaroardiles@gmail.com
 - ⚡ Fun fact: I'm a Caracal enjoyer, feel free to share your memes
 
