@@ -7,6 +7,7 @@ Hey! I'm <b>Manuel David Alfaro</b>, a Web Developer from Chile.<br><br>
 ## Languages and Tools
 
 <p>
+  <div style="display: flexbox; flex-direction: row; justify-content: center; align-items: center">
   <img title="Angular" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" />
   <img title ="Vue.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue"/>
   <img title="TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" />
@@ -20,5 +21,6 @@ Hey! I'm <b>Manuel David Alfaro</b>, a Web Developer from Chile.<br><br>
   <img title="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" />
   <img title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
   <img title="Azure" width="45px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Azure"/>
-  <img title="AWS"  width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" />
+  <img title="AWS"  width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" />
+  </div>
 </p>
