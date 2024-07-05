@@ -1,4 +1,4 @@
-Hey! I'm <b>Manuel David Alfaro</b>, a Web Developer from Chile.<br><br>
+Hey! I'm <b>Manuel David Alfaro</b>, a Software Developer from Chile.<br><br>
 
 - 🌎 I speak Spanish, English (C2) and basic Portuguese and Russian!
 - 📫 You can contact me at m.alfaroardiles@gmail.com
