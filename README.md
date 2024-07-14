@@ -9,6 +9,7 @@ Hey! I'm <b>Manuel David Alfaro</b>, a Software Developer from Chile.<br><br>
 
 <p>
   <img title="Angular" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" />
+  <img title="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
   <img title ="Vue.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue"/>
   <img title="TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" />
   <img title="Spring" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" />
